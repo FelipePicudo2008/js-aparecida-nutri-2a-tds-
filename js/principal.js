@@ -38,10 +38,4 @@ if (alturaEhValida && pesoEhValido) {
     tdImc.textContent = "Altura e/ou peso inválidos!"
 }
 
-/*<tr class="paciente" id="primeiro-paciente">
-<td class="info-nome">Paulo</td>
-<td class="info-peso">100</td>
-<td class="info-altura">2.00</td>
-<td class="info-gordura">10</td>
-<td class="info-imc">0</td>*/
 
